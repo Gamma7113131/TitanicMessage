@@ -1,4 +1,4 @@
-Flask==2.0.3
-requests==2.26.0
-beautifulsoup4==4.10.0
-scratchattach==0.2.0
+Flask==3.0.3
+requests==2.32.3
+beautifulsoup4==4.12.3
+scratchattach==1.7.3
